@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://upfringe.github.io/blog/</loc>
+    <lastmod>2022-12-29T05:01:14+05:45</lastmod>
+  </url><url>
+    <loc>https://upfringe.github.io/tags/cloud-storage/</loc>
+    <lastmod>2022-12-29T05:01:14+05:45</lastmod>
+  </url><url>
+    <loc>https://upfringe.github.io/tags/downloads/</loc>
+    <lastmod>2022-12-29T05:01:14+05:45</lastmod>
+  </url><url>
+    <loc>https://upfringe.github.io/blog/seedr-cc-review/</loc>
+    <lastmod>2022-12-29T05:01:14+05:45</lastmod>
+  </url><url>
+    <loc>https://upfringe.github.io/tags/</loc>
+    <lastmod>2022-12-29T05:01:14+05:45</lastmod>
+  </url><url>
+    <loc>https://upfringe.github.io/tags/torrents/</loc>
+    <lastmod>2022-12-29T05:01:14+05:45</lastmod>
+  </url><url>
+    <loc>https://upfringe.github.io/</loc>
+    <lastmod>2022-12-29T05:01:14+05:45</lastmod>
+  </url><url>
     <loc>https://upfringe.github.io/page/about/</loc>
     <lastmod>2022-12-06T15:05:59+05:45</lastmod>
   </url><url>
@@ -14,16 +35,7 @@
     <loc>https://upfringe.github.io/page/</loc>
     <lastmod>2022-12-06T15:05:59+05:45</lastmod>
   </url><url>
-    <loc>https://upfringe.github.io/tags/</loc>
-    <lastmod>2022-12-06T15:05:59+05:45</lastmod>
-  </url><url>
-    <loc>https://upfringe.github.io/</loc>
-    <lastmod>2022-12-06T15:05:59+05:45</lastmod>
-  </url><url>
     <loc>https://upfringe.github.io/tags/blog/</loc>
-    <lastmod>2022-12-06T15:05:17+05:45</lastmod>
-  </url><url>
-    <loc>https://upfringe.github.io/blog/</loc>
     <lastmod>2022-12-06T15:05:17+05:45</lastmod>
   </url><url>
     <loc>https://upfringe.github.io/tags/hello/</loc>

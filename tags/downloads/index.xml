@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Utshab Pyakurel</title>
-    <link>https://upfringe.github.io/blog/</link>
-    <description>Recent content in Blogs on Utshab Pyakurel</description>
+    <title>downloads on Utshab Pyakurel</title>
+    <link>https://upfringe.github.io/tags/downloads/</link>
+    <description>Recent content in downloads on Utshab Pyakurel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Dec 2022 05:01:14 +0545</lastBuildDate><atom:link href="https://upfringe.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 05:01:14 +0545</lastBuildDate><atom:link href="https://upfringe.github.io/tags/downloads/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seedr.cc Review: A Must-Have Tool for Torrent Lovers</title>
       <link>https://upfringe.github.io/blog/seedr-cc-review/</link>
@@ -15,15 +15,6 @@
       <guid>https://upfringe.github.io/blog/seedr-cc-review/</guid>
       <description>Seedr.cc Review: A Must-Have Tool for Torrent Lovers As a huge fan of torrents, I was always on the lookout for a reliable and easy-to-use platform that could help me download and manage my torrents without any hassle. That&amp;rsquo;s when I stumbled upon Seedr.cc, and it has quickly become my go-to tool for all things torrent-related.
 One of the things I love about Seedr.cc is its clean and intuitive interface. It&amp;rsquo;s very easy to navigate, and I was able to get started in no time.</description>
-    </item>
-    
-    <item>
-      <title>Hello world</title>
-      <link>https://upfringe.github.io/blog/hello_world/</link>
-      <pubDate>Tue, 06 Dec 2022 15:05:17 +0545</pubDate>
-      
-      <guid>https://upfringe.github.io/blog/hello_world/</guid>
-      <description>Hello World! </description>
     </item>
     
   </channel>
