@@ -11,11 +11,13 @@ const inter = Inter({
   subsets: ["latin"],
   display: "swap",
   variable: "--font-in",
+preload: false,
 });
 const manrope = Manrope({
   subsets: ["latin"],
   display: "swap",
   variable: "--font-mr",
+    preload: false,
 });
 
 export const metadata: Metadata = {
