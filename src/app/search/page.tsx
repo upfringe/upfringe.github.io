@@ -1,19 +1,16 @@
+'use client'
+import React from "react";
 import Search from "@/components/Search";
 import SearchResult from "@/components/Search/SearchResult";
-import React from "react";
+import { useSearchParams } from 'next/navigation'
 
-const page = ({
-  searchParams,
-}: {
-  searchParams?: {
-    query?: string;
-  };
-}) => {
-  const query = searchParams?.query || "";
+const SearchPage = () => {
+    const params= useSearchParams();
+  const query = params.get("query") || "";
   return <div>
     <Search placeholder="Search Blogs..." />
     <SearchResult query={query}/>
   </div>;
 };
 
-export default page;
+export default SearchPage;
