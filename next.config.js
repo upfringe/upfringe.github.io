@@ -15,6 +15,10 @@ const nextConfig = {
         "utf-8-validate": "utf-8-validate"
       });
     }
+    config.infrastructureLogging = {
+    level: "error",
+    };
+
     return config;
   }
 };
