@@ -1,5 +1,5 @@
 // contentlayer.config.js
-import { makeSource, defineDocumentType } from "@contentlayer/source-files";
+import { defineDocumentType, makeSource } from 'contentlayer2/source-files';
 import readingTime from "reading-time";
 import remarkGfm from "remark-gfm";
 import rehypeSlug from "rehype-slug";
