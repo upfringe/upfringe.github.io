@@ -7,7 +7,6 @@
     "build": "next build",
     "build:content": "contentlayer2 build",
     "start": "next start",
-    "lint": "next lint"
   },
   "dependencies": {
     "@dotlottie/react-player": "^1.6.18",

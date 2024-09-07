@@ -8,18 +8,9 @@ const nextConfig = {
   compiler: {
     removeConsole: true,
   },
-  webpack: (config, { isServer }) => {
-    if (!isServer) {
-      config.externals.push({
-        bufferutil: 'bufferutil',
-        'utf-8-validate': 'utf-8-validate',
-      });
-    }
-    config.infrastructureLogging = {
-      level: 'error',
-    };
-    return config;
-  },
+  // Add basePath and assetPrefix for GitHub Pages
+  basePath: process.env.GITHUB_ACTIONS && '/upfringe.github.io',
+  assetPrefix: process.env.GITHUB_ACTIONS && '/upfringe.github.io/',
 };
 
 module.exports = withContentlayer(nextConfig);
