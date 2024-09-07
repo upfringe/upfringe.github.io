@@ -18,18 +18,6 @@ const nextConfig = {
     config.infrastructureLogging = {
       level: 'error',
     };
-
-    // Add error handling for webpack configuration if needed
-    try {
-      // Additional Webpack configurations if needed
-    } catch (err) {
-      if (err instanceof Error) {
-        console.error('Webpack configuration error:', err.message);
-      } else {
-        console.error('An unknown error occurred during Webpack configuration.');
-      }
-    }
-
     return config;
   },
 };
